@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh311inp4r4diz3&label=Profile%20views&color=0e75b6&style=flat" alt="sh311inp4r4diz3" /> </p>
 
-- 🔭 I’m currently working on **WAPT, VAPT**
+- 🔭 I’m interested in **Cybersecurity**
 
-- 🌱 I’m currently learning **Cybersecurity**
 
 
 
