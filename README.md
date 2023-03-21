@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saikiran</h1>
 <h3 align="center">Passionate Cybersecurity Researcher with a Focus on Network Security and Web Application Security.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh311inp4r4diz3&label=Profile%20views&color=0e75b6&style=flat" alt="sh311inp4r4diz3" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh311inp4r4diz3&label=Profile%20views&color=0e75b6&style=flat" alt="sh311inp4r4diz3" /> </p>-->
 
 - 🔭 I’m interested in **Cybersecurity**
 
